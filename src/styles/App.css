@@ -1,0 +1,53 @@
+.app-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .app-title {
+    color: #333;
+  }
+  
+  .app-nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .app-nav ul li {
+    display: inline;
+  }
+  
+  .app-nav a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .app-nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .app-content {
+    margin-top: 20px;
+  }
+  
+  input {
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }

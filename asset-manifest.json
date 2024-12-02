@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prova2BimestreBCCLP2/static/css/main.c7c4fdbe.css",
+    "main.js": "/prova2BimestreBCCLP2/static/js/main.0355a3ed.js",
+    "index.html": "/prova2BimestreBCCLP2/index.html",
+    "main.c7c4fdbe.css.map": "/prova2BimestreBCCLP2/static/css/main.c7c4fdbe.css.map",
+    "main.0355a3ed.js.map": "/prova2BimestreBCCLP2/static/js/main.0355a3ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7c4fdbe.css",
+    "static/js/main.0355a3ed.js"
+  ]
+}
